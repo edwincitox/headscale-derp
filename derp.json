@@ -2,15 +2,14 @@
     "Regions": {
       "901": {
         "RegionID": 901,
-        "RegionCode": "cn-hangzhou",
-        "RegionName": "Hangzhou",
+        "RegionCode": "us-gcloud",
+        "RegionName": "gcloud",
         "Nodes": [
           {
             "Name": "901h",
             "RegionID": 901,
             "DERPPort": 8443,
-            "HostName": "<hostname>",
-            "IPv4": "<IP>",
+            "HostName": "net.niwde2580.com",
             "InsecureForTests": true
           }
         ]
